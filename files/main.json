@@ -1,0 +1,39 @@
+{
+	"frontpage" : {
+		"title" : "Welcome to tokipona! LOL.",
+		"content" : "Hello! I hope this place makes it easier for you to learn tokipona!\n\ntoki! mi wile e ni: tomo ni li pona e toki pona tawa sina!",
+		"donate" : {
+			"url" : "https://www.google.com",
+			"text" : "Donate"
+		},
+		"contributors" : [
+			{
+				"name" : "phy007297",
+				"web" : "https://github.com/phy007297",
+				"what" : "Backend API."
+			},
+			{
+				"name" : "Waris",
+				"web" : "https://github.com/leadersheir",
+				"what" : "Web Design."
+			}
+		]
+	},
+	"levels" : [
+		{
+			"level" : 1,
+			"title" : "Basic Vocabulary.",
+			"description" : "Learn basic tokipona words."
+		},
+		{
+			"level" : 2,
+			"title" : "Less-Basic German",
+			"description" : "Learn how to use Less-Basic German words."
+		},
+		{
+			"level" : 3,
+			"title" : "Test level.",
+			"description" : "Learn how to use more things obviously."
+		}
+	]
+}

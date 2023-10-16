@@ -1,0 +1,109 @@
+[
+	{
+		"id" : 1,
+		"question" : "Translate from Toki Pona to English.",
+		"text" : "mi moku",
+		"answers" : [
+			"I eat",
+			"I'm eating",
+			"I am eating"
+		]
+	},
+	{
+		"id" : 2,
+		"question" : "Translate from Toki Pona to English.",
+		"text" : "sina pona",
+		"answers" : [
+			"You're good",
+			"You are good"
+		]
+	},
+	{
+		"id" : 3,
+		"question" : "Translate from Toki Pona to English.",
+		"text" : "mi jan",
+		"answers" : [
+			"I am a person",
+			"I'm a person"
+		]
+	},
+	{
+		"id" : 4,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "He's bad.",
+		"answers" : [
+			"ona ike"
+		]
+	},
+	{
+		"id" : 5,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Good Language",
+		"answers" : [
+			"toki pona"
+		]
+	},
+	{
+		"id" : 6,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Simple Language",
+		"answers" : [
+			"toki pona"
+		]
+	},
+	{
+		"id" : 7,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Simple Language",
+		"answers" : [
+			"toki pona"
+		]
+	},
+	{
+		"id" : 8,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Hello",
+		"answers" : [
+			"toki"
+		]
+	},
+	{
+		"id" : 9,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Bad.",
+		"answers" : [
+			"ike"
+		]
+	},
+	{
+		"id" : 10,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Person",
+		"answers" : [
+			"jan"
+		]
+	},
+	{
+		"id" : 11,
+		"question" : "Translate from Toki Pona to English.",
+		"text" : "ona pona",
+		"answers" : [
+			"He's good",
+			"He is good",
+			"She's good",
+			"She is good",
+			"It's good",
+			"It is good",
+			"They're good",
+			"They are good"
+		]
+	},
+	{
+		"id" : 12,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "You are speaking.",
+		"answers" : [
+			"sina toki"
+		]
+	}
+]
