@@ -30,15 +30,15 @@
 	{
 		"id" : 4,
 		"question" : "Translate from English to Toki Pona.",
-		"text" : "He's bad.",
+		"text" : "Good Language",
 		"answers" : [
-			"ona ike"
+			"toki pona"
 		]
 	},
 	{
 		"id" : 5,
 		"question" : "Translate from English to Toki Pona.",
-		"text" : "Good Language",
+		"text" : "Simple Language",
 		"answers" : [
 			"toki pona"
 		]
@@ -46,21 +46,13 @@
 	{
 		"id" : 6,
 		"question" : "Translate from English to Toki Pona.",
-		"text" : "Simple Language",
+		"text" : "Simple",
 		"answers" : [
-			"toki pona"
+			"pona"
 		]
 	},
 	{
 		"id" : 7,
-		"question" : "Translate from English to Toki Pona.",
-		"text" : "Simple Language",
-		"answers" : [
-			"toki pona"
-		]
-	},
-	{
-		"id" : 8,
 		"question" : "Translate from English to Toki Pona.",
 		"text" : "Hello",
 		"answers" : [
@@ -68,7 +60,7 @@
 		]
 	},
 	{
-		"id" : 9,
+		"id" : 8,
 		"question" : "Translate from English to Toki Pona.",
 		"text" : "Bad.",
 		"answers" : [
@@ -76,7 +68,7 @@
 		]
 	},
 	{
-		"id" : 10,
+		"id" : 9,
 		"question" : "Translate from English to Toki Pona.",
 		"text" : "Person",
 		"answers" : [
@@ -84,26 +76,123 @@
 		]
 	},
 	{
-		"id" : 11,
-		"question" : "Translate from Toki Pona to English.",
-		"text" : "ona pona",
+		"id" : 10,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "You are speaking.",
 		"answers" : [
-			"He's good",
-			"He is good",
-			"She's good",
-			"She is good",
-			"It's good",
-			"It is good",
-			"They're good",
-			"They are good"
+			"sina toki"
+		]
+	},
+	{
+		"id" : 11,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Me",
+		"answers" : [
+			"mi"
 		]
 	},
 	{
 		"id" : 12,
 		"question" : "Translate from English to Toki Pona.",
-		"text" : "You are speaking.",
+		"text" : "My",
 		"answers" : [
-			"sina toki"
+			"mi"
+		]
+	},
+	{
+		"id" : 13,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "You",
+		"answers" : [
+			"sina"
+		]
+	},
+	{
+		"id" : 14,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Yours",
+		"answers" : [
+			"sina"
+		]
+	},
+	{
+		"id" : 15,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "He",
+		"answers" : [
+			"ona"
+		]
+	},
+	{
+		"id" : 16,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "She",
+		"answers" : [
+			"ona"
+		]
+	},
+	{
+		"id" : 17,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "It",
+		"answers" : [
+			"ona"
+		]
+	},
+	{
+		"id" : 18,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "They",
+		"answers" : [
+			"ona"
+		]
+	},
+	{
+		"id" : 19,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Thing",
+		"answers" : [
+			"ijo"
+		]
+	},
+	{
+		"id" : 20,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Food",
+		"answers" : [
+			"moku"
+		]
+	},
+	{
+		"id" : 21,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Eat",
+		"answers" : [
+			"moku"
+		]
+	},
+	{
+		"id" : 22,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Big.",
+		"answers" : [
+			"suli"
+		]
+	},
+	{
+		"id" : 23,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Old.",
+		"answers" : [
+			"suli"
+		]
+	},
+	{
+		"id" : 24,
+		"question" : "Translate from English to Toki Pona.",
+		"text" : "Important.",
+		"answers" : [
+			"suli"
 		]
 	}
 ]

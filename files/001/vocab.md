@@ -1,5 +1,6 @@
 ## Vocabulary.
 
+### From the first lesson.
 - **mi:** Me, My.
 - **sina:** You, Yours.
 - **ona:** He, She, It, They.
