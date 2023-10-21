@@ -1,11 +1,30 @@
 {
+	"title" : "Tokipona! LOL!",
 	"frontpage" : {
 		"title" : "Welcome to tokipona! LOL.",
-		"content" : "Hello! I hope this place makes it easier for you to learn tokipona!\n\ntoki! mi wile e ni: tomo ni li pona e toki pona tawa sina!",
-		"donate" : {
-			"url" : "https://www.google.com",
-			"text" : "Donate"
-		},
+		"content" : "Hello! I hope this place makes it easier for you to learn tokipona!",
+		"buttons" : [
+			{
+				"url" : "https://www.google.com",
+				"text" : "Donate",
+				"visible" : true,
+				"icon_url" : "",
+				"hexcolor" : {
+					"lightmode" : "#fff",
+					"darkmode" : "#fff"
+				}
+			},
+			{
+				"url" : "https://www.google.com",
+				"text" : "Discord",
+				"visible" : true,
+				"icon_url" : "",
+				"hexcolor" : {
+					"lightmode" : "#fff",
+					"darkmode" : "#fff"
+				}
+			}
+		],
 		"contributors" : [
 			{
 				"name" : "phy007297",
@@ -27,13 +46,13 @@
 		},
 		{
 			"level" : 2,
-			"title" : "Less-Basic German",
-			"description" : "Learn how to use Less-Basic German words."
+			"title" : "Tokipona Rules.",
+			"description" : "Learn how to use: 'li' and adjectives."
 		},
 		{
 			"level" : 3,
-			"title" : "Test level.",
-			"description" : "Learn how to use more things obviously."
+			"title" : "New words.",
+			"description" : "Learn how to say: Today is sunny day."
 		}
 	]
 }
